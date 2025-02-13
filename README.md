@@ -25,7 +25,6 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 ### 🛠️ Tools & Plattformen
 - Docker 🐳
 - Git / GitHub 🐙
-- Linux 🐧
 
 ### 💻 Entwicklungsumgebungen
 - PyCharm
