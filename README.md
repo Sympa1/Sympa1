@@ -1,10 +1,10 @@
 ## Hallo, Ich bin Tristan 👋
 
-- 🔭 Ich arbeite derzeit an der Entwicklung eines Passwort-Managers in Python.
+- 🔭 Ich arbeite derzeit an der Entwicklung eines Passwort-Managers und kleinere Projekte in C# und Python.
     
-- 🌱 Ich lerne derzeit die Programmiersprache Python sowie alles, was ich für meine Umschulung zum Fachinformatiker für Anwendungsentwicklung benötige.
+- 🌱 Ich lerne derzeit die Programmiersprache Python, C#, sowie alles, was ich für meine Umschulung zum Fachinformatiker für Anwendungsentwicklung benötige.
     
-- 👯 Ich suche einen Praktikumsplatz, den ich im Rahmen meiner Umschulung zum Fachinformatiker für Anwendungsentwicklung benötige.
+- 👯 Ich suche nach neuen Herausforderungen.
     
 - 💬 Frag mich gerne über meine Umschulung zum Fachinformatiker für Anwendungsentwicklung.
     
@@ -20,7 +20,7 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 - SQL
 
 ### 🏗️ Frameworks & Bibliotheken
-- .NET
+- .NET Framework 4.8
 
 ### 🛠️ Tools & Plattformen
 - Docker 🐳
