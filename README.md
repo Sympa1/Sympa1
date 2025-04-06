@@ -1,4 +1,4 @@
-## Hallo, Ich bin Tristan 👋
+## Hallo, Ich bin Sympa 👋
 
 - 🔭 Ich arbeite derzeit an der Entwicklung eines Passwort-Managers und kleinere Projekte in C# und Python.
     
