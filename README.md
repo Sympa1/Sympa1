@@ -21,6 +21,8 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 
 ### 🏗️ Frameworks & Bibliotheken
 - .NET Framework 4.8
+- ASP.NET Core
+- Blazor
 
 ### 🛠️ Tools & Plattformen
 - Docker 🐳
@@ -28,12 +30,13 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 
 ### 💻 Entwicklungsumgebungen
 - PyCharm
+- Rider
 - Visual Studio Code
 - Visual Studio
 
 ### 🖥️ OS
 - Windows 🪟
-- Debian 🌀
-- Linux Mint 
+- Debian/Ubuntu 🌀
+- Manjaro 
 
 Ich bin offen für neue Technologien und freue mich über spannende Projekte! 🚀
