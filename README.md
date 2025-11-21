@@ -40,3 +40,6 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 - Manjaro 
 
 Ich bin offen für neue Technologien und freue mich über spannende Projekte! 🚀
+
+![Sympa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=dracula)
+
