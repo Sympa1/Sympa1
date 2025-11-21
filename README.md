@@ -41,5 +41,8 @@ Hier sind die Technologien, mit denen ich regelmäßig arbeite:
 
 Ich bin offen für neue Technologien und freue mich über spannende Projekte! 🚀
 
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cs,py,dotnet,blazor,docker,git,vscode,rider,linux,windows)](https://skillicons.dev)
+
 
 ![Sympa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=dracula)
