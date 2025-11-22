@@ -105,7 +105,6 @@ me.say_hi()
 
 ![Codewars](https://www.codewars.com/users/Synpa/badges/large)
 
-**Ich bin offen für neue Technologien und freue mich über spannende Projekte!** 🚀
 
 </div>
 
