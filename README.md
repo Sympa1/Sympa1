@@ -76,8 +76,10 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/Sympa1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <br/>
 
