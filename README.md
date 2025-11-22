@@ -21,6 +21,12 @@ class Developer:
         self.current_projects = ["Passwort-Manager"]
         self.languages = ["Python", "C#", "SQL"]
         self.passion = "Neue Technologien & Coding-Herausforderungen"
+    
+    def say_hi(self):
+        print("Ich freue mich über neue Herausforderungen und spannende Projekte!")
+
+me = Developer()
+me.say_hi()
 ```
 
 💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Passwort-Manager** und weiteren spannenden Projekten!
@@ -82,13 +88,10 @@ class Developer:
 
 ## 🎯 Aktuelle Ziele
 
-<div align="center">
-
-| 🎓 Qualifikation | 🚀 Projekte | 📚 Skills | 🤝 Community |
-|:---:|:---:|:---:|:---:|
-| Abschluss als Fachinformatiker erreichen | Passwort-Manager fertigstellen | Python & C# Skills vertiefen | An Open-Source Projekten mitwirken |
-
-</div>
+- ✅ Abschluss als Fachinformatiker für Anwendungsentwicklung erreichen
+- 🚀 Passwort-Manager Projekt fertigstellen
+- 📚 Python und C# Skills weiter vertiefen
+- 🤝 An Open-Source Projekten mitwirken
 
 ---
 
@@ -97,7 +100,8 @@ class Developer:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan_Siegel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-siegel/)
-[![Codewars](https://img.shields.io/badge/Codewars-Sympa1-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Sympa1)
+
+![Codewars](https://www.codewars.com/users/Synpa/badges/large)
 
 **Ich bin offen für neue Technologien und freue mich über spannende Projekte!** 🚀
 
