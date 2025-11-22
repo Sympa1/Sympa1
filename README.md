@@ -18,7 +18,7 @@ class Developer:
     def __init__(self):
         self.name = "Sympa"
         self.role = "Angehender Fachinformatiker für Anwendungsentwicklung"
-        self.current_projects = ["Passwort-Manager"]
+        self.current_projects = ["Data Sync - REST API & MAUI App"]
         self.languages = ["Python", "C#", "SQL"]
         self.passion = "Neue Technologien & Coding-Herausforderungen"
     
@@ -29,7 +29,7 @@ me = Developer()
 me.say_hi()
 ```
 
-💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Passwort-Manager** und weiteren spannenden Projekten!
+💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Data Sync Projekt** (C# REST API mit ASP.NET und MAUI App) sowie weiteren spannenden Projekten!
 
 ---
 
@@ -76,11 +76,12 @@ me.say_hi()
 
 <div align="center">
   
-![Sympa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -89,7 +90,7 @@ me.say_hi()
 ## 🎯 Aktuelle Ziele
 
 - ✅ Abschluss als Fachinformatiker für Anwendungsentwicklung erreichen
-- 🚀 Passwort-Manager Projekt fertigstellen
+- 🚀 Data Sync Projekt (REST API & MAUI) erfolgreich umsetzen
 - 📚 Python und C# Skills weiter vertiefen
 - 🤝 An Open-Source Projekten mitwirken
 
@@ -111,7 +112,7 @@ me.say_hi()
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "First, solve the problem. Then, write the code." – John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sympa1&color=blueviolet&style=flat-square)
 
