@@ -73,7 +73,7 @@ me.say_hi()
 
 <p align="center">
   <img width="49%" style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
-  <img width="49%" style="max-height: 190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img width="49%" style="max-height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
