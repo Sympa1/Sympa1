@@ -2,7 +2,7 @@
   
 # 👋 Hallo, ich bin Sympa!
 
-### Fachinformatiker für Anwendungsentwicklung in Ausbildung
+### Angehender Fachinformatiker für Anwendungsentwicklung
 
 [![GitHub followers](https://img.shields.io/github/followers/Sympa1?style=social)](https://github.com/Sympa1)
 [![GitHub stars](https://img.shields.io/github/stars/Sympa1?style=social)](https://github.com/Sympa1)
@@ -17,23 +17,13 @@
 class Developer:
     def __init__(self):
         self.name = "Sympa"
-        self.role = "Fachinformatiker für Anwendungsentwicklung"
+        self.role = "Angehender Fachinformatiker für Anwendungsentwicklung"
         self.current_projects = ["Passwort-Manager"]
         self.languages = ["Python", "C#", "SQL"]
-        self.passion = "Neue Technologien entdecken und Programmier-Herausforderungen meistern"
-    
-    def say_hi(self):
-        print("Ich freue mich über neue Herausforderungen und spannende Projekte!")
-
-me = Developer()
-me.say_hi()
+        self.passion = "Neue Technologien & Coding-Herausforderungen"
 ```
 
-- 🔭 **Aktuell arbeite ich an:** Passwort-Manager und kleineren Projekten in C# und Python
-- 🌱 **Ich lerne gerade:** Python, C# und alles für meine Umschulung zum Fachinformatiker
-- 👯 **Ich suche:** Neue Herausforderungen und spannende Projekte
-- 💬 **Frag mich über:** Meine Umschulung, Programmierung oder interessante Tech-Themen
-- ⚡ **Fun Fact:** Ich liebe es, neue Technologien zu entdecken!
+💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Passwort-Manager** und weiteren spannenden Projekten!
 
 ---
 
@@ -92,18 +82,22 @@ me.say_hi()
 
 ## 🎯 Aktuelle Ziele
 
-- ✅ Erfolgreich die Umschulung zum Fachinformatiker für Anwendungsentwicklung abschließen
-- 🚀 Passwort-Manager Projekt fertigstellen
-- 📚 Python und C# Skills weiter vertiefen
-- 🤝 An Open-Source Projekten mitwirken
+<div align="center">
+
+| 🎓 Qualifikation | 🚀 Projekte | 📚 Skills | 🤝 Community |
+|:---:|:---:|:---:|:---:|
+| Abschluss als Fachinformatiker erreichen | Passwort-Manager fertigstellen | Python & C# Skills vertiefen | An Open-Source Projekten mitwirken |
+
+</div>
 
 ---
 
-## 📫 Kontakt
+## 🌐 Kontakt & Profile
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan_Siegel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-siegel/)
+[![Codewars](https://img.shields.io/badge/Codewars-Sympa1-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Sympa1)
 
 **Ich bin offen für neue Technologien und freue mich über spannende Projekte!** 🚀
 
