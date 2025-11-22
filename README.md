@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## 🚀 Über mich
 
@@ -31,7 +30,6 @@ me.say_hi()
 
 💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Data Sync Projekt** (C# REST API mit ASP.NET und MAUI App) sowie weiteren spannenden Projekten!
 
----
 
 ## 🛠️ Tech Stack
 
@@ -70,20 +68,18 @@ me.say_hi()
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sympa's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
----
 
 ## 🎯 Aktuelle Ziele
 
@@ -92,7 +88,6 @@ me.say_hi()
 - 📚 Python und C# Skills weiter vertiefen
 - 🤝 An Open-Source Projekten mitwirken
 
----
 
 ## 🌐 Kontakt & Profile
 
@@ -106,7 +101,6 @@ me.say_hi()
 
 </div>
 
----
 
 <div align="center">
   
@@ -115,5 +109,3 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=Sympa1&color=blueviolet&style=flat-square)
 
 </div>
-
-
