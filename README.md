@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hallo, ich bin Sympa!
+# 👋 Hallo, ich bin Tristan!
 
 ### Angehender Fachinformatiker für Anwendungsentwicklung
 
@@ -8,6 +8,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Sympa1?style=social)](https://github.com/Sympa1)
 
 </div>
+
 
 
 ## 🚀 Über mich
@@ -29,6 +30,7 @@ me.say_hi()
 ```
 
 💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Data Sync Projekt** (C# REST API mit ASP.NET und MAUI App) sowie weiteren spannenden Projekten!
+
 
 
 ## 🛠️ Tech Stack
@@ -68,7 +70,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -84,7 +86,7 @@ me.say_hi()
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
----
+
 
 ## 🎯 Aktuelle Ziele
 
@@ -92,6 +94,7 @@ me.say_hi()
 - 🚀 Data Sync Projekt (REST API & MAUI) erfolgreich umsetzen
 - 📚 Python und C# Skills weiter vertiefen
 - 🤝 An Open-Source Projekten mitwirken
+
 
 
 ## 🌐 Kontakt & Profile
@@ -106,6 +109,7 @@ me.say_hi()
 
 </div>
 
+---
 
 <div align="center">
   
