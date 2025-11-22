@@ -2,7 +2,9 @@
   
 # 👋 Hallo, ich bin Sympa!
 
-### Angehender Fachinformatiker für Anwendungsentwicklung
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Angehender+Fachinformatiker;Python+%7C+C%23+%7C+SQL+Entwickler;Data+Sync+%7C+REST+API+%7C+MAUI;Immer+bereit+für+neue+Herausforderungen!" alt="Typing SVG" /></a>
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sympa1?style=social)](https://github.com/Sympa1)
 [![GitHub stars](https://img.shields.io/github/stars/Sympa1?style=social)](https://github.com/Sympa1)
@@ -68,6 +70,15 @@ me.say_hi()
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sympa1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -83,6 +94,23 @@ me.say_hi()
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p> -->
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sympa1&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sympa1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
 
 ## 🎯 Aktuelle Ziele
 
