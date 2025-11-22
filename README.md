@@ -1,44 +1,119 @@
-## Hallo, Ich bin Sympa 👋
+<div align="center">
+  
+# 👋 Hallo, ich bin Sympa!
 
-- 🔭 Ich arbeite derzeit an der Entwicklung eines Passwort-Managers und kleinere Projekte in C# und Python.
+### Fachinformatiker für Anwendungsentwicklung in Ausbildung
+
+[![GitHub followers](https://img.shields.io/github/followers/Sympa1?style=social)](https://github.com/Sympa1)
+[![GitHub stars](https://img.shields.io/github/stars/Sympa1?style=social)](https://github.com/Sympa1)
+
+</div>
+
+---
+
+## 🚀 Über mich
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sympa"
+        self.role = "Fachinformatiker für Anwendungsentwicklung"
+        self.current_projects = ["Passwort-Manager"]
+        self.languages = ["Python", "C#", "SQL"]
+        self.passion = "Neue Technologien entdecken und Programmier-Herausforderungen meistern"
     
-- 🌱 Ich lerne derzeit die Programmiersprache Python, C#, sowie alles, was ich für meine Umschulung zum Fachinformatiker für Anwendungsentwicklung benötige.
-    
-- 👯 Ich suche nach neuen Herausforderungen.
-    
-- 💬 Frag mich gerne über meine Umschulung zum Fachinformatiker für Anwendungsentwicklung.
-    
-- ⚡ Fun Fact: Ich entdecke gerne neue Technologien und liebe es, mich einer guten Programmier-Herausforderung zu stellen.
+    def say_hi(self):
+        print("Ich freue mich über neue Herausforderungen und spannende Projekte!")
 
-## 🛠️ Mein Tech-Stack
+me = Developer()
+me.say_hi()
+```
 
-Hier sind die Technologien, mit denen ich regelmäßig arbeite:
+- 🔭 **Aktuell arbeite ich an:** Passwort-Manager und kleineren Projekten in C# und Python
+- 🌱 **Ich lerne gerade:** Python, C# und alles für meine Umschulung zum Fachinformatiker
+- 👯 **Ich suche:** Neue Herausforderungen und spannende Projekte
+- 💬 **Frag mich über:** Meine Umschulung, Programmierung oder interessante Tech-Themen
+- ⚡ **Fun Fact:** Ich liebe es, neue Technologien zu entdecken!
 
-### 🌐 Programmiersprachen
-- Python 🐍
-- C#
-- SQL
+---
 
-### 🏗️ Frameworks & Bibliotheken
-- .NET Framework 4.8
-- ASP.NET Core
-- Blazor
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Programmiersprachen
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎯 Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### 🛠️ Tools & Plattformen
-- Docker 🐳
-- Git / GitHub 🐙
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 Entwicklungsumgebungen
-- PyCharm
-- Rider
-- Visual Studio Code
-- Visual Studio
+### 💻 IDEs & Editors
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### 🖥️ OS
-- Windows 🪟
-- Debian/Ubuntu 🌀
-- Manjaro 
+### 🖥️ Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 
-Ich bin offen für neue Technologien und freue mich über spannende Projekte! 🚀
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Sympa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Aktuelle Ziele
+
+- ✅ Erfolgreich die Umschulung zum Fachinformatiker für Anwendungsentwicklung abschließen
+- 🚀 Passwort-Manager Projekt fertigstellen
+- 📚 Python und C# Skills weiter vertiefen
+- 🤝 An Open-Source Projekten mitwirken
+
+---
+
+## 📫 Kontakt
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sympa1-181717?style=for-the-badge&logo=github)](https://github.com/Sympa1)
+[![Email](https://img.shields.io/badge/Email-Kontakt-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deine-email@beispiel.de)
+
+**Ich bin offen für neue Technologien und freue mich über spannende Projekte!** 🚀
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sympa1&color=blueviolet&style=flat-square)
+
+</div>
 
 
