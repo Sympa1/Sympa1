@@ -20,13 +20,14 @@ class Developer:
         self.role = "Angehender Fachinformatiker für Anwendungsentwicklung"
         self.current_projects = ["Data Sync - REST API & MAUI App"]
         self.languages = ["Python", "C#", "SQL"]
-        self.passion = "Neue Technologien & Coding-Herausforderungen"
+        self.learning = True
+        self.coffee_consumed = "Viel zu viel"
     
-    def say_hi(self):
-        print("Ich freue mich über neue Herausforderungen und spannende Projekte!")
+    def get_status(self):
+        return "Code schreiben, debuggen, lernen, repeat..."
 
 me = Developer()
-me.say_hi()
+print(me.get_status())
 ```
 
 💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Data Sync Projekt** (C# REST API mit ASP.NET und MAUI App) sowie weiteren spannenden Projekten!
