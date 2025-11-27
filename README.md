@@ -104,7 +104,7 @@ print(me.get_status())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tristan_Siegel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-siegel/)
 
-![Codewars](https://www.codewars.com/users/Synpa/badges/large)
+![Codewars](https://www.codewars.com/users/Sympa42/badges/large)
 
 
 </div>
