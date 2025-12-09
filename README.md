@@ -76,11 +76,14 @@ print(me.get_status())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sympa's GitHub stats" />
+  <a href="https://github.com/Sympa1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <!-- <p align="center">
