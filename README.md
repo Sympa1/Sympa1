@@ -76,11 +76,11 @@ print(me.get_status())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Sympa's GitHub stats" />
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Sympa's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- <p align="center">
