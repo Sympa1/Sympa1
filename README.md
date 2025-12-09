@@ -76,14 +76,17 @@ print(me.get_status())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Sympa1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sympa1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sympa1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sympa1&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sympa1&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sympa1&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sympa1&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sympa1&theme=tokyonight" alt="Most Commit Language"/>
 </p>
 
 <!-- <p align="center">
