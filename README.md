@@ -119,7 +119,6 @@ print(me.get_status())
 
 <div align="center">
   
-### 💡 "First, solve the problem. Then, write the code." – John Johnson
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sympa1&color=blueviolet&style=flat-square)
 
