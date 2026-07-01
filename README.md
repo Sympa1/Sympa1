@@ -1,4 +1,4 @@
-was <div align="center">
+<div align="center">
   
 # 👋 Hallo, ich bin Tristan!
 
@@ -92,15 +92,6 @@ print(me.get_status())
 <!-- <p align="center">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sympa1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p> -->
-
-
-
-## 🎯 Aktuelle Ziele
-
-- ✅ Abschluss als Fachinformatiker für Anwendungsentwicklung erreichen
-- 🚀 Data Sync Projekt (REST API & MAUI) erfolgreich umsetzen
-- 📚 Python und C# Skills weiter vertiefen
-- 🤝 An Open-Source Projekten mitwirken
 
 
 
