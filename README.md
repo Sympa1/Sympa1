@@ -16,8 +16,8 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Sympa"
-        self.role = "Angehender Fachinformatiker für Anwendungsentwicklung"
+        self.name = "Tristan"
+        self.role = "Fachinformatiker für Anwendungsentwicklung"
         self.current_projects = ["Data Sync - REST API & MAUI App"]
         self.languages = ["Python", "C#", "SQL"]
         self.learning = True
@@ -29,9 +29,6 @@ class Developer:
 me = Developer()
 print(me.get_status())
 ```
-
-💡 Auf dem Weg zum **Fachinformatiker für Anwendungsentwicklung** mit Fokus auf Python und C# Entwicklung. Derzeit arbeite ich an einem **Data Sync Projekt** (C# REST API mit ASP.NET und MAUI App) sowie weiteren spannenden Projekten!
-
 
 
 ## 🛠️ Tech Stack
