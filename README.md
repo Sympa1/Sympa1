@@ -18,7 +18,7 @@ class Developer:
     def __init__(self):
         self.name = "Tristan"
         self.role = "Fachinformatiker für Anwendungsentwicklung"
-        self.current_projects = ["Data Sync - WEB API, CLI Tool & Flutter App", "honeypot - REST API & TUI"]
+        self.current_projects = ["Data Sync - WEB API, CLI Tool & Flutter App", "Honeypot - REST API & TUI"]
         self.languages = ["Python", "C#", "SQL"]
         self.learning = True
         self.coffee_consumed = "Viel zu viel"
