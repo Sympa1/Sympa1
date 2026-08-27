@@ -20,6 +20,7 @@ class Developer:
         self.role = "Fachinformatiker für Anwendungsentwicklung"
         self.current_projects = ["Data Sync - WEB API, CLI Tool & Flutter App"]
         self.languages = ["Python", "C#", "SQL"]
+        self.vibecoding = ["Dart", "Flutter"]  # Per Vibecoding genutzte Technologien
         self.learning = True
         self.coffee_consumed = "Viel zu viel"
     
@@ -39,14 +40,12 @@ print(me.get_status())
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) *(Vibecoding)*
 
 ### 🎯 Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) *(Vibecoding)*
 
 ### 🛠️ Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
