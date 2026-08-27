@@ -103,8 +103,6 @@ print(me.get_status())
 
 </div>
 
----
-
 <div align="center">
   
 
